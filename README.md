@@ -1,10 +1,8 @@
 # movie-watchlist-blog
-RESTful Routes simple project
+RESTful Routes simple project with Semantic UI and Node
 
-Semantic UI and Node project
-
-To install the packages
+#To install the packages
 `npm install`
 
-To start
+#To start
 `npm start`
